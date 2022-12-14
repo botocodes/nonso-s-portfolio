@@ -1,6 +1,6 @@
 # nonso-s-portfolio
 Data Analytics
-# [Project 1: Google Data Analytics Capstone Case Study: Cyclistic Bike-Share Analysis] (https://rpubs.com/Nonso_techish/966457)
+# [Project 1: Google Data Analytics Capstone Case Study: Cyclistic Bike-Share Analysis](https://rpubs.com/Nonso_techish/966457)
 ## Project Overview
 * This is a project aimed at **converting Casual riders to Annual members**
 * Analyzised and visualized How Annual members and Casual riders use Cyclistic bikes differently. 
